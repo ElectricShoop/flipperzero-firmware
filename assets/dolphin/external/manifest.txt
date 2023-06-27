@@ -1,6 +1,13 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: BR_LO
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 3
+
 Name: L1_Waves_128x50
 Min butthurt: 0
 Max butthurt: 5
